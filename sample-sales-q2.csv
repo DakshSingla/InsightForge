@@ -1,0 +1,13 @@
+Order ID,Order Date,Region,Category,Product,Quantity,Revenue,Status,Customer
+Q2-2001,2026-04-04,North,Electronics,Laptop,15,22500,Completed,Acme Retail
+Q2-2002,2026-04-10,South,Home Appliances,Microwave,14,4200,Completed,Urban Cart
+Q2-2003,2026-04-16,North,Electronics,Tablet,24,13200,Completed,NextGen Stores
+Q2-2004,2026-04-22,West,Furniture,Desk,8,3360,Completed,WorkHub
+Q2-2005,2026-05-03,East,Electronics,Smartphone,31,18600,Completed,Metro Bazaar
+Q2-2006,2026-05-08,North,Accessories,Headphones,52,7800,Completed,Acme Retail
+Q2-2007,2026-05-13,South,Electronics,Monitor,18,9000,Completed,Urban Cart
+Q2-2008,2026-05-19,West,Home Appliances,Air Fryer,20,6000,Completed,Home Circle
+Q2-2009,2026-06-02,North,Electronics,Laptop,11,16500,Completed,NextGen Stores
+Q2-2010,2026-06-07,East,Furniture,Office Chair,26,9100,Completed,Metro Bazaar
+Q2-2011,2026-06-15,North,Electronics,Smartphone,34,20400,Completed,Acme Retail
+Q2-2012,2026-06-21,South,Accessories,Keyboard,42,4620,Completed,Urban Cart
